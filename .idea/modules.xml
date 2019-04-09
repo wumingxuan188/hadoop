@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/avroDemo/avroDemo.iml" filepath="$PROJECT_DIR$/avroDemo/avroDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hadoop.iml" filepath="$PROJECT_DIR$/.idea/hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop_hive/hadoop_hive.iml" filepath="$PROJECT_DIR$/hadoop_hive/hadoop_hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbaseDemo/hbaseDemo.iml" filepath="$PROJECT_DIR$/hbaseDemo/hbaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkaDemo/kafkaDemo.iml" filepath="$PROJECT_DIR$/kafkaDemo/kafkaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-01/scala-01.iml" filepath="$PROJECT_DIR$/scala-01/scala-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stormDemo/stormDemo.iml" filepath="$PROJECT_DIR$/stormDemo/stormDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperDemo/zookeeperDemo.iml" filepath="$PROJECT_DIR$/zookeeperDemo/zookeeperDemo.iml" />
+    </modules>
+  </component>
+</project>

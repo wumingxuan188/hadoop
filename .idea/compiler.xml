@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="avroDemo" />
+        <module name="hadoop_hive" />
+        <module name="hbaseDemo" />
+        <module name="kafkaDemo" />
+        <module name="scala-01" />
+        <module name="stormDemo" />
+        <module name="zookeeperDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="avroDemo" target="1.5" />
+      <module name="hadoop_hive" target="1.5" />
+      <module name="hbaseDemo" target="6" />
+      <module name="kafkaDemo" target="1.5" />
+      <module name="scala-01" target="1.5" />
+      <module name="stormDemo" target="1.5" />
+      <module name="zookeeperDemo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
